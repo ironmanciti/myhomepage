@@ -1,3 +1,10 @@
+/* div {
+  border: 1px solid red;
+} */
+h1 {
+  vertical-align: middle;
+}
+
 .bg-black {
   background: black;
   color: #fff; }
